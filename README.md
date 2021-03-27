@@ -1,6 +1,6 @@
 ### 2021-TNT-Python-Fun
 
-#### casual uploads of python codes with various themes 
+#### uploads of python codes with various themes explained in Korean
 
   - 1. Web crawling
 
