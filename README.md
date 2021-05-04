@@ -1,6 +1,6 @@
-### 2021-TNT-Python-Fun
+### 2021-TNT-Project
 
-#### uploads of python codes with various themes explained in Korean
+#### 01 uploads of python codes explaining webcrawling in Korean
 
   - 1. Web crawling
 
@@ -8,7 +8,4 @@
 
     - [Crawling_using_Selenium](https://youtu.be/zX2kJZfNauw) 
 
-
-  - 2. API 
-
-  - 3. Visualizations
+#### 02 Project analysis files 
